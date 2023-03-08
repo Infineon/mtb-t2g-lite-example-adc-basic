@@ -4,8 +4,6 @@ This code example demonstrates the use of the ADC HAL driver to perform voltage 
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-t2g-lite-example-adc-basic)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyMzU2NTAiLCJTcGVjIE51bWJlciI6IjAwMi0zNTY1MCIsIkRvYyBUaXRsZSI6IlhNQzcwMDAgTUNVOiBBREMgdXNpbmcgSEFMIiwicmlkIjoiY2N0YSIsIkRvYyB2ZXJzaW9uIjoiMS4wLjAiLCJEb2MgTGFuZ3VhZ2UiOiJFbmdsaXNoIiwiRG9jIERpdmlzaW9uIjoiTUNEIiwiRG9jIEJVIjoiSUNXIiwiRG9jIEZhbWlseSI6IlBTT0MifQ==)
-
 ## Requirements
 
 - [ModusToolbox&trade; software](https://www.infineon.com/modustoolbox) v3.0 or later (tested with v3.0)
@@ -21,7 +19,7 @@ This code example demonstrates the use of the ADC HAL driver to perform voltage 
 
 ## Supported kits (make variable 'TARGET')
 
-- TRAVEO™ T2G body high evaluation kit (`KIT_T2G-B-H_LITE`) - Default value of `TARGET`
+- TRAVEO™ T2G body high evaluation kit (`KIT_T2G_B-H_LITE`) - Default value of `TARGET`
 
 ## Hardware setup
 
