@@ -42,13 +42,13 @@ MTB_TYPE=COMBINED
 # configurations. If TARGET is manually edited, ensure TARGET_<BSP>.mtb with a
 # valid URL exists in the application, run 'make getlibs' to fetch BSP contents
 # and update or regenerate launch configurations for your IDE.
-TARGET=KIT_XMC72_EVK
+TARGET=APP_KIT_T2G-B-H_LITE
 
 # Name of application (used to derive name of final linked file).
 #
 # If APPNAME is edited, ensure to update or regenerate launch
 # configurations for your IDE.
-APPNAME=mtb-example-xmc7000-adc-basic
+APPNAME=mtb-t2g-example-adc-basic
 
 # Name of toolchain to use. Options include:
 #
